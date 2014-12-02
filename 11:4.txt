@@ -1,0 +1,13 @@
+HAC data:
+
+- clustering of text instead of numbers, so final entity would be text (multiple words)
+
+- vectorize a text and form a unit vector and then do distance between them
+
+- normalization of vector gives high dimensional vector
+
+
+- L1 or L2 distance, use priority queue for O(n^2) distances.
+
+- make a concrete algorithm
+
